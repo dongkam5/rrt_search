@@ -1,7 +1,7 @@
-ipynb_checkpoints/
-
-PathiPlanning/
-
 rrt-algorithms-develop/
 
 temp/
+
+/PathPlanning/
+
+/.ipynb_checkpoints/
